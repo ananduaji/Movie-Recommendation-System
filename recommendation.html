@@ -1,7 +1,7 @@
 <html>
 <head>
   <title>Movie Recommendation System</title>
-<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+<link rel="stylesheet" href="{{ url_for('static', filename='CSS/style.css') }}">
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
 <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
@@ -14,8 +14,10 @@
 </div>
 
 <div id="contact_rec">
-    {% for movie in recommendation %}
-    <h2>{{ movie }}</h2>
+    <br>
+    {% for (movie, poster, year) in recommendation %}
+    <h2>{{ movie }} ({{ year }})</h2>
+    <img src="{{ poster }}" width="365" height="550"><br><br><br><br>
     {% endfor %}
 </div>
 

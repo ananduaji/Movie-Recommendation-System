@@ -3,7 +3,7 @@ body
  margin:0px auto;
  padding:0px;
  text-align:center;
- width:100%;
+ width:82%;
  font-family: "Myriad Pro","Helvetica Neue",Helvetica,Arial,Sans-Serif;
  background-color:#A9D0F5;
 }
@@ -74,10 +74,10 @@ body
 #contact_rec
 {
  margin-top:100px;
- width:90%;
- height:365px;
- margin-left:5%;
- padding:50px;
+ width:70%;
+ height:3430px;
+ margin-left:210px;
+ padding:25px;
  box-sizing:border-box;
  background-color:#084B8A;
  border-radius:10px;

@@ -43,4 +43,20 @@ This project is divided into two part:
    * User can simply type and find the movie that they like. When they tap recommend it shows 5 movies that are similar to that film. 
    
  ## Technologies Used
-   ![]()
+ <div style="display:flex">
+   <img src="https://user-images.githubusercontent.com/90780162/189960536-19dccc7d-710f-4771-b00e-8cbc31bceda7.png" width=480 height=140 />
+   <img src="https://user-images.githubusercontent.com/90780162/189960533-af11f611-fff7-47e6-98e9-e09d21895ad3.png" width=300 height=121 />
+   <img src="https://user-images.githubusercontent.com/90780162/189960530-5b19fa69-4d10-4ace-9054-9f048baa8333.png" width=179 height=195 />
+   </div>
+    <div style="display:flex">   
+   <img src="https://user-images.githubusercontent.com/90780162/189960540-37c01d5f-936b-4632-a220-3fe883abad9a.png" width=320 height=172 />
+   <img src="https://user-images.githubusercontent.com/90780162/189960506-d565a0ed-2973-47d1-8d1a-37da2c8dd856.png" width=320 height=125 />
+   <img src="https://user-images.githubusercontent.com/90780162/189960528-1c73eb83-2aa7-4997-93ce-3a1dbe0b6d4d.jpg" width=262 height=150 />
+   </div>
+   <br><br>
+   <div style="display:flex"> 
+   <img src="https://user-images.githubusercontent.com/90780162/189960520-7aff317b-d1b1-48d9-8e72-78b066ef5159.png" width=398 height=113 />
+   <img src="https://user-images.githubusercontent.com/90780162/189960527-81729ea3-bc6e-493f-8cb0-e107c53e6290.png" width=277 height=117 />
+   </div>
+   
+   

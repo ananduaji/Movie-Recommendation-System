@@ -43,4 +43,4 @@ This project is divided into two part:
    * User can simply type and find the movie that they like. When they tap recommend it shows 5 movies that are similar to that film. 
    
  ## Technologies Used
-   
+   ![]()

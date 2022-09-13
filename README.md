@@ -38,7 +38,8 @@ The [project](https://movie-recommendation-system-07.herokuapp.com/) is divided 
       - distance is the inverse of the similarity
       - if distance is less then similarity is higher
       - if distance is higher the similarity is less
-   * Finally made a function that recommends 5 film according to the film that we choose.
+   * Made a function that recommends 5 film according to the film that we choose.
+   * Finally by using 'pickle' saved the similarity and movie dataframe for making the web application.
 2. Building and hosting a Flask web app on Heroku.
    * User can simply type and find the movie that they like. When they tap recommend it shows 5 movies that are similar to that film. 
    

@@ -26,7 +26,7 @@ Here, in [my project](https://movie-recommendation-system-07.herokuapp.com/) I u
 Content-Based Recommendations systems are the systems that look for similarity before recommending something. The similarity of different movies is computed to the one you are currently watching and all the similar movies are recommended to us. 
 
 ## Project Roadmap
-This project is divided into two part:
+The [project](https://movie-recommendation-system-07.herokuapp.com/) is divided into two part:
 1. Training a machine learning model using scikit-learn.
    * Loaded the dataset.
    * Done some Feature engineering like, feature selection, handling null values.

@@ -32,7 +32,7 @@ The [project](https://movie-recommendation-system-07.herokuapp.com/) is divided 
    * Done some Feature engineering like, feature selection, handling null values.
    * Made a column which contain all the keywords of that specific film.
    * By using 'nltk' library, stemming and lemmatization has been done.
-   * Using CountVectoriser from sklearn vectorized the words.
+   * Using CountVectoriser from sklearn to vectorize the words.
    * By finding the Cosine similarity got a list contains every similarity between every movies. 
       - we find the similarity by calculating the angle distances from each vectors.
       - distance is the inverse of the similarity

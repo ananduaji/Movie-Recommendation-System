@@ -2,7 +2,7 @@
 ### link : https://movie-recommendation-system-07.herokuapp.com/
 
 ## Overview
-Movie Recommendation System is a machine learning based web application for recommending movies based on the film you like. This web application will predict five films according to you film taste. This type of movie recommendation is used in various streaming platforms like Netflix, Amazon Prime, Sonyliv etc.. This system is also integrated in different applications for better user experience. Like in Spotify for song recommendation.
+Movie Recommendation System is a machine learning based web application for recommending movies based on the film you like. This web application will predict five films according to you film taste. This type of movie recommendation is used in various streaming platforms like Netflix etc.. This system is also integrated in different applications for better user experience. Like in Spotify for song recommendation.
 
 ## Demo
 ![](https://user-images.githubusercontent.com/90780162/189946025-b8cddd05-5f2d-430e-ba34-edcf16e937bd.jpeg)
